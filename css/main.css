@@ -45,8 +45,9 @@ header {
 }
 
 .heading {
-  font-size: calc(2.5em + 3vw);
+  font-size: calc(2.25em + 3vw);
   font-family: "Zen Tokyo Zoo";
+  letter-spacing: 0.05em;
   margin: 0;
   padding-top: 1em;
 }

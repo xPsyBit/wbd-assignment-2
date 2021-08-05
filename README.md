@@ -4,7 +4,7 @@ Website created for the second assignment for WBD-1 course (IPM, IIMR)
 
 This is a submission for Group-17
 
-## Group 16
+## Group 17
 * Nitish Kumar _(IPM01116)_
 * Parth Mankad _(IPM01117)_
 * Parth Rastogi _(IPM01118)_
